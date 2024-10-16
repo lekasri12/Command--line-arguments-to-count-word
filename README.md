@@ -39,10 +39,11 @@ fp.close()
 ```
 ### OUTPUT:
 
-![Uploading Screenshot 2024-10-16 144038.png…]()
+![Screenshot 2024-10-16 144038](https://github.com/user-attachments/assets/acc6ee76-e02f-4ea5-b289-af2195eada20)
 
 
-![Uploading Screenshot 2024-10-16 144056.png…]()
+![Screenshot 2024-10-16 144056](https://github.com/user-attachments/assets/abcd476a-8438-4524-8e52-0b8fd80232a9)
+
 
 
 ## RESULT:
